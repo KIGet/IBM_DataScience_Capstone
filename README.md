@@ -1,4 +1,4 @@
-# IBM_DataScience_Capstone
+# IBM DataScience Professional Certificate Capstone Project
 
 This project is done as a part of the **Capstone Project of IBM Data Science Professional Certification** offered by **Coursera**. The project aims to identify the best neighbourhoods in Greater Melbourne to visit. 
 
